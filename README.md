@@ -1,68 +1,153 @@
-# Enterprise Retail Analytics Platform
+Enterprise Retail Analytics Platform
 
-## Project Overview
+📌 Overview
 
-This project demonstrates an end-to-end retail analytics pipeline built using Python, PostgreSQL, PySpark, and Power BI.
+The Enterprise Retail Analytics Platform is an end-to-end data engineering project that automates retail data ingestion, transformation, storage, and visualization. The solution demonstrates how modern data pipelines can convert raw retail data into actionable business insights using Azure services and Power BI.
 
-The pipeline generates retail data, stores it in PostgreSQL, processes it using PySpark, performs analytical transformations, and visualizes business insights in Power BI.
+⸻
 
----
+🚀 Project Objectives
 
-## Tech Stack
+* Build an automated ETL pipeline.
+* Store transformed data in PostgreSQL.
+* Create an analytics-ready data warehouse.
+* Visualize business KPIs using Power BI.
+* Follow Git and GitHub best practices for version control.
 
-- Python
-- Faker
-- PostgreSQL
-- PySpark
-- Power BI
-- Git
-- GitHub
+⸻
 
----
+🛠️ Tech Stack
 
-## Project Workflow
+* Azure Data Factory
+* PostgreSQL
+* SQL
+* Power BI
+* Git
+* GitHub
 
-1. Generate customer, product, and order data.
-2. Load the data into PostgreSQL.
-3. Read PostgreSQL tables using PySpark.
-4. Perform joins and transformations.
-5. Calculate revenue and KPIs.
-6. Write the final sales report back to PostgreSQL.
-7. Build interactive dashboards in Power BI.
+⸻
 
----
+🏗️ Project Architecture
 
-## Dashboard Features
+Retail Data Sources
+        │
+        ▼
+Azure Data Factory
+        │
+        ▼
+PostgreSQL Database
+        │
+        ▼
+SQL Transformations
+        │
+        ▼
+Power BI Dashboard
 
-- Revenue by City
-- Top Selling Products
-- Revenue by Product
-- Top Customers
-- Sales Trend
-- KPI Cards
-- Category, Brand, and City Filters
+⸻
 
----
+📂 Project Structure
 
-## Project Structure
-
-```text
 enterprise-retail-analytics-platform/
-├── data_generation/
-├── pyspark/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── sql/
+│   ├── schema.sql
+│   ├── transformations.sql
+│   └── queries.sql
+│
+├── adf/
+│   ├── pipelines/
+│   ├── datasets/
+│   └── linked-services/
+│
 ├── powerbi/
-├── screenshots/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+│   └── Enterprise_Retail_Analytics.pbix
+│
+├── docs/
+│   ├── architecture.png
+│   └── dashboard.png
+│
+└── README.md
 
----
+⸻
 
-## Dashboard Preview
+⚙️ Workflow
 
-(Add your dashboard screenshot here after uploading it to GitHub.)
+1. Import retail data.
+2. Ingest data using Azure Data Factory.
+3. Store data in PostgreSQL.
+4. Transform and clean data using SQL.
+5. Load transformed data into Power BI.
+6. Build interactive dashboards and KPIs.
 
-```
-![Dashboard](screenshots/dashboard.png)
-```
+⸻
+
+📊 Dashboard Highlights
+
+* Total Sales
+* Total Orders
+* Total Customers
+* Revenue Trends
+* Sales by Category
+* Regional Performance
+* Top Products
+
+⸻
+
+✨ Key Features
+
+* Automated ETL pipeline
+* Data warehouse using PostgreSQL
+* SQL-based data transformation
+* Interactive Power BI dashboards
+* Version control with Git & GitHub
+* Well-structured project documentation
+
+⸻
+
+📈 Skills Demonstrated
+
+* Data Engineering
+* ETL Development
+* Azure Data Factory
+* PostgreSQL
+* SQL
+* Power BI
+* Data Warehousing
+* Git & GitHub
+
+⸻
+
+📷 Screenshots
+
+Add the following images to this section:
+
+* Project Architecture
+* Azure Data Factory Pipeline
+* PostgreSQL Database
+* Power BI Dashboard
+
+⸻
+
+🔮 Future Improvements
+
+* Incremental data loading
+* Pipeline scheduling and monitoring
+* Data quality validation
+* Azure Blob Storage integration
+* CI/CD deployment with Azure DevOps
+
+⸻
+
+👤 Author
+
+Kuntumalla Sreeranga
+
+Aspiring Data Engineer passionate about building scalable data pipelines and transforming data into actionable business insights.
+
+GitHub: (Add your GitHub profile link here)
+
+LinkedIn: (Add your LinkedIn profile link here)
