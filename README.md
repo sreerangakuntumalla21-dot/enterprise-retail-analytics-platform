@@ -150,4 +150,4 @@ Aspiring Data Engineer passionate about building scalable data pipelines and tra
 
 GitHub: (Add your GitHub profile link here)
 
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: https://www.linkedin.com/in/sreeranga-dataengineer
