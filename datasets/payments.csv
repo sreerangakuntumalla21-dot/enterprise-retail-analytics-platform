@@ -1,0 +1,101 @@
+payment_id,order_id,payment_method,payment_status,amount
+5001,1096,Debit Card,Failed,7523
+5002,1041,Net Banking,Failed,51878
+5003,1090,Net Banking,Pending,88989
+5004,1002,Credit Card,Pending,33543
+5005,1004,Net Banking,Pending,51118
+5006,1028,Net Banking,Failed,50416
+5007,1033,Net Banking,Success,63246
+5008,1059,UPI,Pending,73787
+5009,1099,Net Banking,Success,76283
+5010,1053,UPI,Success,72637
+5011,1090,Credit Card,Failed,22224
+5012,1078,Net Banking,Success,94918
+5013,1028,Credit Card,Success,5030
+5014,1071,Cash,Pending,24352
+5015,1073,Credit Card,Success,97618
+5016,1052,Debit Card,Success,9277
+5017,1076,Cash,Failed,51882
+5018,1058,Debit Card,Success,86790
+5019,1018,Cash,Failed,37375
+5020,1093,Net Banking,Pending,89260
+5021,1065,UPI,Pending,62573
+5022,1100,Credit Card,Success,59242
+5023,1053,Debit Card,Success,60497
+5024,1002,Cash,Failed,40597
+5025,1017,Debit Card,Failed,57178
+5026,1055,Credit Card,Pending,26811
+5027,1097,Cash,Failed,42113
+5028,1062,Cash,Failed,29461
+5029,1005,Net Banking,Pending,17241
+5030,1059,Debit Card,Pending,73722
+5031,1002,Cash,Failed,44052
+5032,1078,Debit Card,Failed,34099
+5033,1065,UPI,Failed,37767
+5034,1032,Credit Card,Failed,21034
+5035,1030,Cash,Success,90347
+5036,1015,Debit Card,Pending,6340
+5037,1027,UPI,Success,4013
+5038,1045,Credit Card,Success,68868
+5039,1076,Net Banking,Failed,17470
+5040,1042,Cash,Success,85182
+5041,1043,Cash,Pending,85092
+5042,1033,Credit Card,Failed,97610
+5043,1040,UPI,Failed,91574
+5044,1071,Net Banking,Failed,87414
+5045,1087,Net Banking,Pending,54531
+5046,1008,Credit Card,Failed,88617
+5047,1067,Net Banking,Success,14531
+5048,1004,UPI,Failed,12319
+5049,1040,Cash,Pending,21996
+5050,1065,Debit Card,Success,15299
+5051,1089,UPI,Failed,88704
+5052,1005,Net Banking,Failed,63314
+5053,1075,Credit Card,Failed,14345
+5054,1067,Debit Card,Success,29811
+5055,1092,Cash,Failed,6518
+5056,1073,Cash,Success,57234
+5057,1030,Debit Card,Success,71147
+5058,1061,Cash,Failed,70498
+5059,1085,Debit Card,Failed,7934
+5060,1053,Net Banking,Success,68526
+5061,1039,Cash,Pending,20810
+5062,1074,UPI,Success,68150
+5063,1070,Credit Card,Pending,36356
+5064,1009,Cash,Failed,75576
+5065,1004,Cash,Pending,57022
+5066,1076,UPI,Failed,78767
+5067,1025,Credit Card,Failed,43876
+5068,1075,UPI,Success,60305
+5069,1005,UPI,Failed,15395
+5070,1003,Net Banking,Pending,17618
+5071,1048,UPI,Pending,4205
+5072,1015,Cash,Pending,65857
+5073,1069,UPI,Failed,83170
+5074,1034,Debit Card,Success,86363
+5075,1011,Debit Card,Failed,59694
+5076,1055,Credit Card,Failed,9092
+5077,1008,Debit Card,Pending,23584
+5078,1006,Net Banking,Success,3071
+5079,1034,Cash,Success,69451
+5080,1040,Credit Card,Failed,66755
+5081,1061,Cash,Success,30085
+5082,1072,Debit Card,Success,90290
+5083,1014,UPI,Failed,36286
+5084,1073,UPI,Pending,72352
+5085,1077,Debit Card,Failed,62432
+5086,1033,Debit Card,Pending,33530
+5087,1013,Net Banking,Pending,628
+5088,1043,UPI,Failed,15519
+5089,1039,Debit Card,Pending,92604
+5090,1013,Net Banking,Success,3868
+5091,1076,UPI,Success,96361
+5092,1099,Cash,Failed,76885
+5093,1007,Cash,Success,40222
+5094,1008,Credit Card,Failed,18419
+5095,1009,Cash,Failed,60435
+5096,1080,Net Banking,Pending,40713
+5097,1038,Net Banking,Failed,8405
+5098,1056,Net Banking,Success,15276
+5099,1002,Cash,Failed,68562
+5100,1068,Debit Card,Failed,70217
