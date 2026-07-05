@@ -148,6 +148,6 @@ Kuntumalla Sreeranga
 
 Aspiring Data Engineer passionate about building scalable data pipelines and transforming data into actionable business insights.
 
-GitHub: (Add your GitHub profile link here)
+GitHub: https://github.com/sreerangakuntumalla21-dot
 
 LinkedIn: https://www.linkedin.com/in/sreeranga-dataengineer
