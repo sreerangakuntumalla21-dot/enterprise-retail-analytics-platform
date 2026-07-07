@@ -117,18 +117,9 @@ enterprise-retail-analytics-platform/
 * SQL
 * Power BI
 * Data Warehousing
-* Git & GitHub
+* Git & hub
 
-⸻
 
-📷 Screenshots
-
-Add the following images to this section:
-
-* Project Architecture
-* Azure Data Factory Pipeline
-* PostgreSQL Database
-* Power BI Dashboard
 
 ⸻
 
